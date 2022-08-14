@@ -104,7 +104,7 @@
 .person-info{
     color: var(--text-color);
 }
-.site-footer{
+footer{
     display: flex;
     justify-content: center;
     min-height: 40px;
